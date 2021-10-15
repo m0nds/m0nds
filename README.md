@@ -6,6 +6,6 @@
 Hi, I'm Elegbede Raymond. I'm from Lagos, Nigeria. I'm a junior frontend developer with a little bit experience building websites and web applications. I specialize in JavaScript and its frameworks such as reactjs. I also have experience working with CSS, bootstrap and React.
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=m0nds&show_icons=true)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=m0nds&repo=github-readme-stats)](https://github.com/m0nds/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin?username=m0nds&repo=github-readme-stats)]
 
 
