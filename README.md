@@ -21,6 +21,9 @@ Hi, I'm Elegbede Raymond. I'm from Lagos, Nigeria. I'm a junior frontend develop
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=m0nds" />
 </a>
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=m0nds&repo=corona-tracker-app)](https://github.com/anuraghazra/github-readme-stats)
+
+
 
 
 
