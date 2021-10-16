@@ -4,7 +4,7 @@
 <a href="https://twitter.com/m0nds_"><img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/twitter.png?raw=true"></a>&nbsp;&nbsp;
 <a href="https://instagram.com/m0nds"><img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/instagram.jpg?raw=true"></a>&nbsp;&nbsp;
 
-Hi, I'm Elegbede Raymond. I'm from Lagos, Nigeria. I'm a junior frontend developer with a little bit experience building websites and web applications. I specialize in JavaScript and its frameworks such as reactjs. I also have experience working with CSS, bootstrap and React.
+Hi, I'm Elegbede Raymond. I'm from Lagos, Nigeria. I'm a junior frontend developer with a little bit experience building websites and web applications. I specialize in JavaScript and its frameworks such as reactjs. I also have experience working with CSS, bootstrap and React. You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][3.2]][3].
 
 ## 🔧 Technologies & Tools
 
@@ -23,9 +23,18 @@ Hi, I'm Elegbede Raymond. I'm from Lagos, Nigeria. I'm a junior frontend develop
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=m0nds&repo=corona-tracker-app)](https://github.com/m0nds/corona-tracker-app)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=m0nds&repo=recipe-app)](https://github.com/m0nds/recipe-app)
 
 
+
+<!-- Icons -->
+
+[1.2]: http://i.imgur.com/wWzX9uB.png (twitter icon without padding)
+[2.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (LinkedIn icon without padding)
+
+<!-- Links to your social media accounts -->
+
+[1]: https://twitter.com/m0nds_
+[2]: https://www.linkedin.com/in/raymond-elegbede-40a446195/
 
 
 
