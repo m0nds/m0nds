@@ -10,6 +10,7 @@ Hi, I'm Elegbede Raymond. I'm from Lagos, Nigeria. I'm a junior frontend develop
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=m0nds)](https://github.com/m0nds/github-readme-stats)
 
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-HTML-informational?style=flat&logo=html&logoColor=white&color=2bbc8a)
 
 
 
