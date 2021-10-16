@@ -13,8 +13,12 @@ Hi, I'm Elegbede Raymond. I'm from Lagos, Nigeria. I'm a junior frontend develop
 ![](https://img.shields.io/badge/Code-CSS-informational?style=flat&logo=css&logoColor=white&color=2bbc8a)
 
 ## &#x1f4c8; GitHub Stats
+
 <a href="https://github.com/m0nds/Elegbede-Raymond">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=m0nds&show_icons=true" />
+</a>
+<a href="https://github.com/m0nds/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=m0nds)](https://github.com/m0nds/github-readme-stats" />
 </a>
 
 
