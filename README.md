@@ -8,6 +8,9 @@ Hi, I'm Elegbede Raymond. I'm from Lagos, Nigeria. I'm a junior frontend develop
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-HTML-informational?style=flat&logo=html&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-CSS-informational?style=flat&logo=css&logoColor=white&color=2bbc8a)
+![React](https://img.shields.io/badge/-React-black?logo=react&style=social)&nbsp;&nbsp;
+![SCSS](https://img.shields.io/badge/-Scss-black?logo=sass&style=social)&nbsp;&nbsp;
+![Node](https://img.shields.io/badge/-Node.js-black?logo=node.js&style=social)&nbsp;&nbsp;
 
 ## &#x1f4c8; GitHub Stats
 
