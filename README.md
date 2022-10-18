@@ -1,7 +1,7 @@
 ![Header](https://github.com/m0nds/Elegbede-Raymond/blob/main/Black%20Flat%20%26%20Minimalist%20Accounting%20Business%20Website.png)
 # Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-Hi, I'm Elegbede Raymond. I'm from Lagos, Nigeria. I'm a junior frontend developer with a little bit experience building websites and web applications. I specialize in JavaScript and its frameworks such as reactjs. I also have experience working with CSS, bootstrap and React. You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][2.2]][2].
+Hi, I'm Elegbede Raymond. I'm from Lagos, Nigeria. I'm a frontend developer with experience in building websites and web applications. I specialize in JavaScript and its frameworks such as reactjs. I also have experience working with CSS, tailwindCSS, material UI and SCSS. You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][2.2]][2].
 
 ## 🔧 Technologies & Tools
 
