@@ -14,6 +14,7 @@ Passionate Frontend developer with a keen eye for design and a dedication to cre
 ![Typescript](https://img.shields.io/badge/-Typescript-black?logo=typescript&style=social)&nbsp;&nbsp;
 ![Git](https://img.shields.io/badge/-Git-black?logo=git&style=social)&nbsp;&nbsp;
 ![Next](https://img.shields.io/badge/-Next-black?logo=next.js&style=social)&nbsp;&nbsp;
+![Styled Components](https://img.shields.io/badge/-StyledComponents-black?logo=styledcomponents&style=social)&nbsp;&nbsp;
 
 ## &#x1f4c8; GitHub Stats
 
