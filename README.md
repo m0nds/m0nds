@@ -1,7 +1,7 @@
 ![Header](https://github.com/m0nds/Elegbede-Raymond/blob/main/Black%20Flat%20%26%20Minimalist%20Accounting%20Business%20Website.png)
 # Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-Hi, I'm Elegbede Raymond. I'm from Lagos, Nigeria. I'm a frontend developer with experience in building websites and web applications. I specialize in JavaScript and its frameworks such as reactjs. I also have experience working with CSS, tailwindCSS, material UI and SCSS. You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][2.2]][2].
+Passionate Frontend developer with a keen eye for design and a dedication to creating seamless user experiences. Armed with expertise in modern web technologies including CSS, JavaScript, and frameworks like React and Vue, I transform creative ideas into interactive, user-friendly interfaces. With a strong focus on responsive design and performance optimization, I thrive on turning complex problems into elegant solutions. Let's collaborate and turn your vision into captivating digital experiences! You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][2.2]][2].
 
 ## 🔧 Technologies & Tools
 
@@ -11,6 +11,9 @@ Hi, I'm Elegbede Raymond. I'm from Lagos, Nigeria. I'm a frontend developer with
 ![React](https://img.shields.io/badge/-React-black?logo=react&style=social)&nbsp;&nbsp;
 ![SCSS](https://img.shields.io/badge/-Scss-black?logo=sass&style=social)&nbsp;&nbsp;
 ![Node](https://img.shields.io/badge/-Node.js-black?logo=node.js&style=social)&nbsp;&nbsp;
+![Typescript](https://img.shields.io/badge/-Typescript-black?logo=typescript&style=social)&nbsp;&nbsp;
+![Git](https://img.shields.io/badge/-Git-black?logo=git&style=social)&nbsp;&nbsp;
+![Next](https://img.shields.io/badge/-Next-black?logo=next&style=social)&nbsp;&nbsp;
 
 ## &#x1f4c8; GitHub Stats
 
