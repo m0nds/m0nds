@@ -1,7 +1,7 @@
 ![Header](https://github.com/m0nds/Elegbede-Raymond/blob/main/Black%20Flat%20%26%20Minimalist%20Accounting%20Business%20Website.png)
 # Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-Passionate Frontend developer with a keen eye for design and a dedication to creating seamless user experiences. Armed with expertise in modern web technologies including CSS, JavaScript, and frameworks like React and Vue, I transform creative ideas into interactive, user-friendly interfaces. With a strong focus on responsive design and performance optimization, I thrive on turning complex problems into elegant solutions. Let's collaborate and turn your vision into captivating digital experiences! You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][2.2]][2].
+Passionate Frontend developer with a keen eye for design and a dedication to creating seamless user experiences. Armed with expertise in modern web technologies including CSS, JavaScript, and frameworks like React and Typescript, I transform creative ideas into interactive, user-friendly interfaces. With a strong focus on responsive design and performance optimization, I thrive on turning complex problems into elegant solutions. Let's collaborate and turn your vision into captivating digital experiences! You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][2.2]][2].
 
 ## 🔧 Technologies & Tools
 
