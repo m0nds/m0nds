@@ -4,7 +4,7 @@
 Passionate Frontend developer with a keen eye for design and a dedication to creating seamless user experiences. Armed with expertise in modern web technologies including CSS, JavaScript, and frameworks like React and Typescript, I transform creative ideas into interactive, user-friendly interfaces. With a strong focus on responsive design and performance optimization, I thrive on turning complex problems into elegant solutions. Let's collaborate and turn your vision into captivating digital experiences! You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][2.2]][2].
  
 ## 🔧 Technologies & Tools 
-
+ 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?logo=javascript&style=social)&nbsp;&nbsp;
 ![HTML5](https://img.shields.io/badge/-HTML5-black?logo=html5&style=social)&nbsp;&nbsp;
 ![CSS3](https://img.shields.io/badge/-CSS3-black?logo=css3&style=social)&nbsp;&nbsp;
